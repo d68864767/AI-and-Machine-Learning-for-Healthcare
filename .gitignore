@@ -1,0 +1,34 @@
+# Python #
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+
+# Directories #
+.metadata/
+.vscode/
+.idea/
+__pycache__/
+
+# Files #
+*.log
+*.csv
+*.json
+*.xml
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
